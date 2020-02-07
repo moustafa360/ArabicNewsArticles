@@ -1,0 +1,5 @@
+# useless files
+.idea
+.git
+env/
+

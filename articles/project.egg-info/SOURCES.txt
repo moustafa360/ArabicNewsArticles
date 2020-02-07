@@ -1,0 +1,17 @@
+setup.py
+articles/__init__.py
+articles/exporters.py
+articles/items.py
+articles/middlewares.py
+articles/pipelines.py
+articles/settings.py
+articles/spiders/__init__.py
+articles/spiders/cnn_sports.py
+articles/spiders/economics.py
+articles/spiders/middleeast.py
+articles/spiders/skynews.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
